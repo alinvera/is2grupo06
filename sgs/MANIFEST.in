@@ -1,0 +1,4 @@
+recursive-include sgs/public *
+include sgs/public/favicon.ico
+recursive-include sgs/i18n *
+recursive-include sgs/templates *
